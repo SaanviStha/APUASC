@@ -1,0 +1,3 @@
+F001|A001|T001|Engine oil and filter replaced. Brake pads at 40 percent, please check again in 5,000 km.|2026-09-14 11:00
+F002|A002|T002|Full major service done. Timing belt and spark plugs replaced. Car is in good condition.|2026-09-18 12:05
+F003|A003|T001|Coolant flushed and air-cond filter replaced. Rear tyres are worn, replacement recommended soon.|2026-09-25 16:10

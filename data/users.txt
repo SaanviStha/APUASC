@@ -1,0 +1,9 @@
+M001|admin|admin123|Saanvi Shrestha|saanvi.shrestha@apuasc.com|0123456701|MANAGER
+S001|staff1|staff123|Sadiksha Timsina|sadiksha.timsina@apuasc.com|0123456702|COUNTER_STAFF
+S002|staff2|staff123|Anjila Karki|anjila.karki@apuasc.com|0123456703|COUNTER_STAFF
+T001|tech1|tech123|Aashika Pokharel|aashika.pokharel@apuasc.com|0123456704|TECHNICIAN
+T002|tech2|tech123|Roshni Kumari|roshni.kumari@apuasc.com|0123456705|TECHNICIAN
+T003|tech3|tech123|Suyash Shrestha|suyash.shrestha@apuasc.com|0123456706|TECHNICIAN
+C001|cust1|cust123|Binaya Shrestha|binaya.shrestha@gmail.com|0167891234|CUSTOMER|Perodua Myvi|WXY 1234
+C002|cust2|cust123|Ashim Tamang|ashim.tamang@gmail.com|0178892345|CUSTOMER|Honda City|VBN 5678
+C003|cust3|cust123|Sasmit Khanal|sasmit.khanal@gmail.com|0198893456|CUSTOMER|Proton X50|BKL 9012

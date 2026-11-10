@@ -1,0 +1,7 @@
+A001|C001|S001|T001|NORMAL|2026-09-14 10:00|COMPLETED|80.00|Routine service - change engine oil and oil filter
+A002|C002|S001|T002|MAJOR|2026-09-18 09:00|COMPLETED|250.00|Major service at 40,000 km - replace timing belt and spark plugs
+A003|C003|S002|T001|MAJOR|2026-09-25 13:00|COMPLETED|250.00|Air-cond not cold - check coolant and air-cond filter
+A004|C001|S002|T003|NORMAL|2026-10-02 15:00|COMPLETED|80.00|Routine service and check brake noise
+A005|C002|S001|T002|NORMAL|2026-10-05 11:00|ASSIGNED|80.00|Routine service and rotate tyres
+A006|C003|S001|T001|NORMAL|2026-10-12 10:00|ASSIGNED|80.00|Check engine warning light and do routine service
+A007|C001|S002|T003|MAJOR|2026-10-14 09:00|ASSIGNED|250.00|Major service - full inspection before long trip

@@ -1,0 +1,4 @@
+# NetBeans / Ant build output
+build/
+dist/
+nbproject/private/
